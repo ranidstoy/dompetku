@@ -260,7 +260,7 @@ You need free accounts on [GitHub](https://github.com), [Supabase](https://supab
 5. **Deploy, open your site and log in.** Add the Telegram bot, OCR and reminders later if you
    want them.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ilramdhan/dompetku&env=SUPABASE_URL,SUPABASE_SERVICE_ROLE_KEY,APP_USERNAME,APP_PASSWORD,SESSION_SECRET)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ranidstoy/dompetku&env=SUPABASE_URL,SUPABASE_SERVICE_ROLE_KEY,APP_USERNAME,APP_PASSWORD,SESSION_SECRET)
 
 > [!IMPORTANT]
 > The button deploys the app, but you still need to run `supabase/schema.sql` in your Supabase
